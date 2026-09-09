@@ -25,3 +25,8 @@ This project predicts loan default using Logistic Regression, with a focus on ba
 
 ## Key Insight
 Instead of optimizing only accuracy, the model prioritizes **recall for defaulters**, aligning with real-world credit risk objectives.
+
+## How to Run
+1. Download the dataset
+2. Open the notebook in Jupyter
+3. Run all cells sequentially
